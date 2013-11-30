@@ -24,9 +24,6 @@
 #define MOTOR4 9
 #define MOTOR4_DIRECTION 8
 
-//#define TIME_FORWARDS 3000
-//#define TIME_BACKWARDS 3000
-//#define TIME_TURN 1700 //Originally 1200
 
 void setup()
 {
